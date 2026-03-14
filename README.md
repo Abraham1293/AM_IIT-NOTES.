@@ -131,7 +131,7 @@ Free IIT preparation notes for Physics, Chemistry and Maths and formula saeets
                 <h3>Chemistry</h3>
                 <p>Detailed notes on Physical, Organic, and Inorganic Chemistry including reaction mechanisms.</p>
               
-              <a class="btn">View Chemistry Notes</a>
+              <a href= "#" class="btn">View Chemistry Notes</a>
             </div>
 
             <div class="card">
